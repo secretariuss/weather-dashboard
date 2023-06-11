@@ -57,3 +57,11 @@ textarea {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
 }
+
+h3 {
+  display: inline-block;
+}
+
+.lead {
+  display: inline;
+}
