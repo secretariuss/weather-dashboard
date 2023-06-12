@@ -65,3 +65,13 @@ h3 {
 .lead {
   display: inline;
 }
+
+.list-group li{
+  margin-top: 1rem;
+  list-style-type: none;
+}
+
+li:hover{
+  background-color: lightslategray;
+  cursor: pointer;
+}
