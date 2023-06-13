@@ -89,7 +89,7 @@ function createCards() {
 }
 
 function getApi(city) {
-  var queryURL = `http://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${APIKey}`;
+  var queryURL = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${APIKey}`;
 
   fetch(queryURL)
     .then((response) => response.json())

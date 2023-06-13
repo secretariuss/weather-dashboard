@@ -10,15 +10,15 @@ SO THAT I can plan a trip accordingly
  It presents with the city name, the date, an icon representation of weather conditions, the temperature, the humidity, and the the wind speed, And it presents with a 5-day forecast that displays the date, as well. User can change city and save it in local storage and click on a city in the search history. When user refresh the page сities steal populated in the page. 
 
 ## Gitpage reference
-https://
+https://secretariuss.github.io/weather-dashboard/
 
 ## Screen shots
 
 The following scrshots shows the web application's:
 
-![scrshot1](./assets/images/bg3.PNG)
-![scrshot1](./assets/images/bg2.PNG)
-![scrshot1](./assets/images/bg1.PNG)
+![scrshot1](./assets/images/bg3.png)
+![scrshot1](./assets/images/bg2.png)
+![scrshot1](./assets/images/bg1.png)
 
 ## Acceptance Criteria
 GIVEN a weather dashboard with form inputs
